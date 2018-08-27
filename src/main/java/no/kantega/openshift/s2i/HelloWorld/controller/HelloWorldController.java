@@ -8,6 +8,6 @@ public class HelloWorldController {
 
     @RequestMapping("/")
     public String index(){
-        return "Hello OpenShift!";
+        return "Hello OpenShift! Now running with source-2-image";
     }
 }
