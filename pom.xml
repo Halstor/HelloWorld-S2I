@@ -55,6 +55,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-parent</artifactId>
 			<version>1.5.15.RELEASE</version>
+			<type>pom</type>
 			<exclusions>
 				<exclusion>
 					<groupId>org.jboss.shrinkwrap</groupId>
